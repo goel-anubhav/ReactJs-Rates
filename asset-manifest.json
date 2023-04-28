@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactJs-Rates/static/css/main.31d6cfe0.css",
+    "main.js": "/ReactJs-Rates/static/js/main.ac8525c7.js",
+    "static/js/787.23170c61.chunk.js": "/ReactJs-Rates/static/js/787.23170c61.chunk.js",
+    "index.html": "/ReactJs-Rates/index.html",
+    "main.ac8525c7.js.map": "/ReactJs-Rates/static/js/main.ac8525c7.js.map",
+    "787.23170c61.chunk.js.map": "/ReactJs-Rates/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ac8525c7.js"
+  ]
+}
